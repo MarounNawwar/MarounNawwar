@@ -4,7 +4,7 @@ Hi 👋 My name is Maroun Nawwar
 Software Engineer and Full Stack Developer
 ------------------------------------------
 
-I am a motivated, personable and communicative developer. A 2021 Computer Science graduate of the Lebanese University interested in software development, backend development, AI and security.
+I am a motivated, personable and communicative Software Engineer. A 2021 Computer Science graduate of the Lebanese University interested in software Engineering, backend development, algorithms, AI and security.
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [nawwarmaroun@gmail.com](mailto:nawwarmaroun@gmail.com)
